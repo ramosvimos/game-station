@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Veronica Hub abstract horror editorial card">
+  <defs>
+    <radialGradient id="blood" cx="20%" cy="15%" r="70%">
+      <stop offset="0%" stop-color="#b91c1c" stop-opacity="0.9" />
+      <stop offset="45%" stop-color="#2e1065" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#07070a" />
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fca5a5" stop-opacity="0" />
+      <stop offset="50%" stop-color="#fca5a5" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#fca5a5" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#blood)" />
+  <g opacity="0.2">
+    <path d="M0 120h1200" stroke="url(#line)" stroke-width="2" />
+    <path d="M0 260h1200" stroke="url(#line)" stroke-width="2" />
+    <path d="M0 400h1200" stroke="url(#line)" stroke-width="2" />
+    <path d="M0 540h1200" stroke="url(#line)" stroke-width="2" />
+  </g>
+  <circle cx="930" cy="160" r="150" fill="#7f1d1d" opacity="0.35" />
+  <circle cx="1000" cy="430" r="230" fill="#2e1065" opacity="0.32" />
+  <rect x="72" y="76" width="1056" height="478" rx="42" fill="#07070a" opacity="0.72" stroke="#fca5a5" stroke-opacity="0.18" />
+  <text x="120" y="170" fill="#fca5a5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="8">VERONICA HUB</text>
+  <text x="120" y="292" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">Resident Evil Code</text>
+  <text x="120" y="378" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">Veronica Remake</text>
+  <text x="120" y="455" fill="#d6d3d1" font-family="Arial, Helvetica, sans-serif" font-size="30">Release date • Platforms • Trailer • Story • Sources</text>
+  <text x="120" y="506" fill="#a8a29e" font-family="Arial, Helvetica, sans-serif" font-size="22">Independent fan-made information site</text>
+</svg>
